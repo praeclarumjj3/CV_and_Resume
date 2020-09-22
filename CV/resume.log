@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.5.24)  23 JUL 2020 14:17
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.5.24)  22 SEP 2020 13:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1272,16 +1272,23 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 22.
 ) (./resume/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 23.
+(Font)              scaled to size 9.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 23.
+(Font)              scaled to size 9.0pt on input line 25.
 )
-(./resume/projects.tex
+(./resume/publications.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/sc' will be
+(Font)              scaled to size 8.0pt on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 68.
-) [1
+(Font)              scaled to size 9.0pt on input line 24.
+) (./resume/projects.tex
+Overfull \hbox (2.92001pt too wide) in paragraph at lines 23--37
+   [] 
+ []
 
-] (./resume/honours.tex
+[1
+
+]) (./resume/honours.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 13.
 ) (./resume/skills.tex
@@ -1290,19 +1297,19 @@ Overfull \hbox (87.8479pt too wide) in alignment at lines 10--48
  []
 
 ) (./resume/extracurricular.tex) [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
  (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 110.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 38065 strings out of 493007
- 750349 string characters out of 6136719
- 955069 words of memory out of 5000000
- 41540 multiletter control sequences out of 15000+600000
- 532738 words of font info for 84 fonts, out of 8000000 for 9000
+ 38070 strings out of 493007
+ 750519 string characters out of 6136719
+ 956069 words of memory out of 5000000
+ 41541 multiletter control sequences out of 15000+600000
+ 532746 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,89p,10425b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,89p,10425b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (2 pages).
